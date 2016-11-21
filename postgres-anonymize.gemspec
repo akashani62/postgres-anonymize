@@ -6,11 +6,10 @@ require 'postgres/anonymize/version'
 Gem::Specification.new do |spec|
   spec.name          = "postgres-anonymize"
   spec.version       = Postgres::Anonymize::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = "Arash Kashani"
+  spec.email         = "akashani62@gmail.com"
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "How to use production data for development"
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
